@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://jadeja-shaktisinh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Beneath%20the%20Surface-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:jadejashakti5483@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jadeja-shaktisinh-823a8a30a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
