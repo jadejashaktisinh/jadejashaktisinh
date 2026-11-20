@@ -63,8 +63,6 @@ What you see on this page is only the surface. I'm a backend-focused developer w
 | 🤖 **SEO Master Pro** | An AI-powered WordPress plugin that generates and optimises meta tags and SEO content, with a React admin interface. | PHP, WordPress, React, REST APIs |
 | 🎨 **Paint Buddy** | A real-time collaborative painting app where multiple users draw at the same time. | AngularJS, Firebase |
 
-> 📌 Pin these repositories to the top of your profile so they show up first.
-
 ---
 
 ## 🌊 Diving deeper
