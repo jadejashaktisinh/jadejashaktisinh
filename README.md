@@ -96,8 +96,8 @@ I'm still exploring, and the more I learn, the more I find beneath the surface.
 ## 🤝 Let's connect
 
 <p align="center">
-  <a href="https://your-portfolio-url.com">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/your-linkedin-handle">💼 LinkedIn</a> ·
+  <a href="https://jadeja-shaktisinh.vercel.app">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/jadeja-shaktisinh-823a8a30a">💼 LinkedIn</a> ·
   <a href="mailto:jadejashakti5483@gmail.com">✉️ Email</a>
 </p>
 
